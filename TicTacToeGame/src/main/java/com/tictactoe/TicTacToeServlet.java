@@ -8,7 +8,9 @@ import java.io.PrintWriter;
 
 @WebServlet("/TicTacToeServlet")
 public class TicTacToeServlet extends HttpServlet {
-    @Override
+    private static final long serialVersionUID = 1L;
+//var
+	@Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         HttpSession session = request.getSession();
         char[][] board = (char[][]) session.getAttribute("board");
