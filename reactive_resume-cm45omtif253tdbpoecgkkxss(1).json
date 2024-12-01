@@ -1,0 +1,406 @@
+{
+  "basics": {
+    "name": "Stephy J George",
+    "headline": "Driven Professional Seeking to Leverage Expertise and Deliver Exceptional Results in a Dynamic Organization",
+    "email": "stephyjebaz@gmail.com",
+    "phone": "+91 7736645478",
+    "location": "Coimbatore",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/cm45omcqo253mdbpoaz9pjm1r/pictures/cm45omcqo253mdbpoaz9pjm1r.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Profile",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Seeking a challenging and impactful role within a professional organization to leverage my strengths and contribute effectively to the company’s success while exceeding employer expectations.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "wxkrtkxwfljtyrzoenofdbyw",
+          "visible": true,
+          "institution": "MCA",
+          "studyType": "Mohandas College of Engineering & Technology",
+          "area": "",
+          "score": "",
+          "date": "March 2022",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "j00hiie7fcbiob47sp5durbi",
+          "visible": true,
+          "institution": "BCA",
+          "studyType": "Christ Nagar College",
+          "area": "",
+          "score": "",
+          "date": "April 2015",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "zk4sudxssvgbgj6d1sv6ifyc",
+          "visible": true,
+          "institution": "12th Standard (Higher Secondary)",
+          "studyType": "Technical Higher Secondary School",
+          "area": "",
+          "score": "",
+          "date": "March 2012 ",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "s2c93ns4lsxtzlmxvt12prin",
+          "visible": true,
+          "institution": "10th Standard (Secondary)",
+          "studyType": "Holy Angel’s Convent Higher Secondary School",
+          "area": "",
+          "score": "",
+          "date": "March 2010",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "avdsl86c00q0ctmocgst54fi",
+          "visible": true,
+          "company": "IT ACADEMIC TRAINER",
+          "position": "",
+          "location": "",
+          "date": "2021-2024",
+          "summary": "<p> Training Delivery &amp; Curriculum Design</p><p> Learning Assessment &amp; Evaluation</p><p> Technology Integration &amp; Tool Proficiency</p><p> Classroom Management &amp; Scheduling</p><p> Continuous Improvement</p><p> Project Supervision</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "kb5xnevapcli5ig58youxr1p",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 0
+        },
+        {
+          "id": "l9wsvf861krckbhhpmelxv2x",
+          "visible": true,
+          "name": "Malayalam",
+          "description": "",
+          "level": 0
+        },
+        {
+          "id": "m3bovgpbyh25pubp1ftr27yn",
+          "visible": true,
+          "name": "Tamil",
+          "description": "",
+          "level": 0
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "qz59xug8fxw24zuurs73ho3r",
+          "visible": true,
+          "name": "Communication",
+          "description": "Strong verbal and written communication skills",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "sahuj3a56hyz6fj2a02g40ol",
+          "visible": true,
+          "name": "Training & Development",
+          "description": "Delivery of technical training and educational content  ",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "xro520sjb6wkgzsdz863s474",
+          "visible": true,
+          "name": "Presentation & Interpersonal Skills",
+          "description": "Proficient in presenting complex concepts clearly ",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "xhgvod4vpeoq8cwh4tynhcbt",
+          "visible": true,
+          "name": "Time Management",
+          "description": "Ability to prioritize tasks and meet deadlines effectively",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "fe0e5jobyvp9jwf9u5y81m4t",
+          "visible": true,
+          "name": "Problem-Solving & Analytical Thinking",
+          "description": "Applying logical thinking for complex problem resolution",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "q948fl67jwd1glk2lpw617nu",
+          "visible": true,
+          "name": "Team Collaboration",
+          "description": "Effective team player in dynamic work environments",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "d1lwqvkkc8gpcp8jic2wbzzn",
+          "visible": true,
+          "name": "Technology Proficiency",
+          "description": "Skilled in MS Office Suite, video conferencing tools, and learning management systems  ",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "l0wepos1d43j0h72yayhsxty": {
+        "name": "Technical Skills",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "l0wepos1d43j0h72yayhsxty",
+        "items": [
+          {
+            "id": "k82ox4utfgrmnjwexb79mi7h",
+            "visible": true,
+            "name": "Programming Languages",
+            "description": "Python",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "dhmn8qkc0o6rfi4gk42djuqz",
+            "visible": true,
+            "name": "Databases",
+            "description": "DBMS",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "h9ttmxmopjuvm1nt9a38dgtm",
+            "visible": true,
+            "name": "Web Development",
+            "description": "HTML",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "e07q6kcfvlta3hl6clbsk8wi",
+            "visible": true,
+            "name": "Productivity Tools",
+            "description": "Google Sheets , Microsoft Word , Excel , PowerPoint",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "template": "azurill",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.l0wepos1d43j0h72yayhsxty"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0891b2"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
